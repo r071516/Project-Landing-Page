@@ -1,3 +1,3 @@
-# Project-Landing-Page
+# project-landing-page
 
 Hello Odin!
